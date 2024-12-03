@@ -1,5 +1,5 @@
 # FitTrener
-FitTrener is a mobile application that enables users to create and share workout plans. It also uses image recognition to identify fitness equipment from photos and suggests exercises tailored to the detected equipment.
+**FitTrener** is a mobile application that helps users train more effectively at the gym. It enables users to create and share workout plans. It also uses image recognition to identify fitness equipment from photos and suggests exercises tailored to the detected equipment.
 ## Key features
 - **Create and share workout plans:** design customized training routines and share them with friends.
 - **Equipment recognition:** use your phone's camera to identify fitness equipment.
