@@ -1,6 +1,6 @@
 # 🏋️ FitTrener
 **FitTrener** is a mobile application that helps users train more effectively at the gym. It enables users to create and share workout plans. It also uses image recognition to identify fitness equipment from photos and suggests exercises tailored to the detected equipment.
-## Key features
+## Key features ✨
 - **Create and share workout plans:** design customized training routines and share them with friends.
 - **Equipment recognition:** use your phone's camera to identify fitness equipment.
 - **Exercise suggestions:** get exercise recommendations based on the detected equipment.
@@ -19,7 +19,7 @@
    npx expo start
    ``
 8. Scan the QR code displayed in the terminal. The app will launch on your device.
-## Technologies
+## Technologies 🛠️
 - **React Native:** framework for building the mobile application.
 - **JavaScript:** primary programming language.
 - **Expo Go:** platform for developing and building an application.
